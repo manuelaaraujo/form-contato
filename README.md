@@ -1,5 +1,8 @@
 # Elementos de formulário de cadastro
 
+## Resultado do projeto
+![resultado.do.projeto](img/gravacao.gif)
+
 ## Código do projeto
 ![código.do.projeto](img/codigo.png) 
 
